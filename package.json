@@ -10,6 +10,10 @@
     "./button": {
       "types": "./dist/components/ui/button.d.ts",
       "import": "./dist/components/ui/button.js"
+    },
+    "./label": {
+      "types": "./dist/components/ui/label.d.ts",
+      "import": "./dist/components/ui/label.js"
     }
   },
   "module": "./dist/index.js",
